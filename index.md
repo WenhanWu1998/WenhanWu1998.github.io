@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a Ph.D. student at the Department of Automation <a href="https://med.nyu.edu/" target="_blank"> Department of Automation</a>, Tsinghua University <a href="https://www.nyu.edu/" target="_blank"> Tsinghua University</a>, working under the mentorship of Prof. Xiaoping Zheng. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
+I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_blank"> Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the mentorship of Prof. Xiaoping Zheng. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 
 In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
 Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
