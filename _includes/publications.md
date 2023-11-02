@@ -173,7 +173,7 @@
     <div class="periodical"><em>IEEE Transactions on Cybernetics, 2020, 52(7): 6083-6094.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2020 IEEE TCYB.pdf" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2020 IEEE TCYB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong style="color:#7b5aa6">JCR Q1, IF = 11.8, Citations = 3</strong>
     </div>
   </div>
