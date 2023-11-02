@@ -63,13 +63,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Personnel evacuation technology and assistance systems for people with disabilities in Beijing Winter Olympic and and Paralympic Games</a></div>
+    <div class="author"><strong>Wenhan Wu</strong> (Responsible for technical components) </div>
+    <div class="periodical"><em>National Key Research and Development Program of China, 2022</em></div>
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
     </div>
   </div>
