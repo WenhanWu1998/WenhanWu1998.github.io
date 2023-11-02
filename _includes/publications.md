@@ -18,7 +18,7 @@
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 1-22, Early Access Article</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.researchgate.net/publication/374249518_A_Systematic_Analysis_of_Subgroup_Research_in_Pedestrian_and_Evacuation_Dynamics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, First author</i></strong>
     </div>
   </div>
