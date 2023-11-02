@@ -23,9 +23,13 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **Behavioral Contagion:** studying the behavioral contagion of fish groups during startle cascades
 
 
-## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
-
+## Education
+- **2015/09--2019/06** Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China
+- Supervisor: Prof. Keke Huang
+- **2019/09--present** Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China
+- Supervisor: Prof. Xiaoping Zheng
+- **2023/04--present** Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany
+- Supervisor: Prof. Pawel Romanczuk
 
 <!-- {% include_relative _includes/publications.md %} -->
 
