@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Wenhan Wu's Personal Academic Website
+## Personal Profile
 
 I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_blank"> Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the mentorship of Prof. Xiaoping Zheng. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data.
 
