@@ -107,7 +107,7 @@
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2022, 23(9): 15476-15486.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9690768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2022 IEEE TITS.pd" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2022 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 15</i></strong>
     </div>
   </div>
@@ -129,7 +129,7 @@
     <div class="periodical"><em>Tsinghua Science and Technology, 2021, 27(3): 619-629.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9614079" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2021 TST.pd" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2021 TST.pdf" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">JCR Q1, IF = 6.6, Citations = 12</i></strong>
     </div>
   </div>
@@ -151,7 +151,7 @@
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2021, 23(7): 7974-7986.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9424478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2021 IEEE TITS.pd" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2021 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 25</i></strong>
     </div>
   </div>
@@ -173,7 +173,7 @@
     <div class="periodical"><em>IEEE Transactions on Cybernetics, 2020, 52(7): 6083-6094.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2020 IEEE TCYB.pd" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2020 IEEE TCYB.pdf" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">JCR Q1, IF = 11.8, Citations = 3</i></strong>
     </div>
   </div>
