@@ -46,6 +46,28 @@
   </div>
 </div>
 </li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TMM2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TRC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10086659" target="_blank">Automatic Identification of Human Subgroups in Time-Dependent Pedestrian Flow Networks</a></div>
+    <div class="author"><strong>Wenhan Wu</strong>, Wenfeng Yi, Jinghai Li, Maoyin Chen, Xiaoping Zheng</div>
+    <div class="periodical"><em>IEEE Transactions on Multimedia, 2023, 1-12, Early Access Article</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10086659" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.researchgate.net/publication/369634950_Automatic_Identification_of_Human_Subgroups_in_Time-Dependent_Pedestrian_Flow_Networks" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">IF=7.3, JCR Q1, First author</i></strong>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
