@@ -48,15 +48,17 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 ## Collaborative Research
 
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
-{% include_relative _includes/services.md %}
+## Journal Reviewers
+- **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902" target="_blank"> IEEE Transactions on Network Science and Engineering </a>**
+- **<a href="https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications?_gl=1*1apxcw5*_ga*MjAzMTYyNzg4Mi4xNjgyNjcxMzM1*_ga_4R527DM8F7*MTY5ODk1NDg2Mi4xNi4xLjE2OTg5NTQ4NzMuMC4wLjA." target="_blank"> Physica A: Statistical Mechanics and its Applications </a>**
+- **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Simulation Modelling Practice and Theory </a>**
+- **<a href="https://collective-dynamics.eu/index.php/cod/index" target="_blank"> Collective Dynamics </a>**
+
 
 
 ## Computer & Language Skills
