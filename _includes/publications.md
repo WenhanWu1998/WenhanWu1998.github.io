@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10265759">8. A Systematic Analysis of Subgroup Research in Pedestrian and Evacuation Dynamics</a></div>
-    <div class="author"><strong>Wenhan Wu^#</strong>, Xiaoping Zheng</div>
+    <div class="author"><strong>Wenhan Wu<sup>#</sup></strong>, Xiaoping Zheng<sup>*</sup></div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 1-22, Early Access Article.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
