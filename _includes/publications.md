@@ -129,7 +129,7 @@
     <div class="periodical"><em>Tsinghua Science and Technology, 2021, 27(3): 619-629.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9614079" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="assets/files/2021 TST.pdf" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/2021 TST.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong style="color:#7b5aa6">JCR Q1, IF = 6.6, Citations = 12</strong>
     </div>
   </div>
