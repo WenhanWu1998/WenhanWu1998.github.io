@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10265759">A Systematic Analysis of Subgroup Research in Pedestrian and Evacuation Dynamics</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10265759">8. A Systematic Analysis of Subgroup Research in Pedestrian and Evacuation Dynamics</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 1-22, Early Access Article.</em></div>
     <div class="links">
@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.trc.2023.104154" target="_blank">A force-based model for adaptively controlling the spatial configuration of pedestrian subgroups at non-extreme densities</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.trc.2023.104154" target="_blank">7. A force-based model for adaptively controlling the spatial configuration of pedestrian subgroups at non-extreme densities</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Wenfeng Yi, Xiaolu Wang, Xiaoping Zheng</div>
     <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2023, 152: 104154.</em></div>
     <div class="links">
@@ -57,7 +57,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10086659" target="_blank">Automatic Identification of Human Subgroups in Time-Dependent Pedestrian Flow Networks</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10086659" target="_blank">6. Automatic Identification of Human Subgroups in Time-Dependent Pedestrian Flow Networks</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Wenfeng Yi, Jinghai Li, Maoyin Chen, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Multimedia, 2023, 1-12, Early Access Article.</em></div>
     <div class="links">
@@ -79,7 +79,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9834308" target="_blank">Simulating the Evacuation Process Involving Multitype Disabled Pedestrians</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9834308" target="_blank">5. Simulating the Evacuation Process Involving Multitype Disabled Pedestrians</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Wenfeng Yi, Jinghai Li, Maoyin Chen, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Computational Social Systems, 2022, 10(5): 2400-2410.</em></div>
     <div class="links">
@@ -101,7 +101,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9690768" target="_blank">Modeling Crowd Evacuation via Behavioral Heterogeneity-Based Social Force Model</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9690768" target="_blank">4. Modeling Crowd Evacuation via Behavioral Heterogeneity-Based Social Force Model</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Jinghai Li, Wenfeng Yi, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2022, 23(9): 15476-15486.</em></div>
     <div class="links">
@@ -123,7 +123,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9614079" target="_blank">Visual information based social force model for crowd evacuation</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9614079" target="_blank">3. Visual information based social force model for crowd evacuation</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Maoyin Chen, Jinghai Li, Binglu Liu, Xiaolu Wang, Xiaoping Zheng</div>
     <div class="periodical"><em>Tsinghua Science and Technology, 2021, 27(3): 619-629.</em></div>
     <div class="links">
@@ -145,7 +145,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9424478" target="_blank">An extended social force model via pedestrian heterogeneity affecting the self-driven force</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9424478" target="_blank">2. An extended social force model via pedestrian heterogeneity affecting the self-driven force</a></div>
     <div class="author"><strong>Wenhan Wu</strong>, Maoyin Chen, Jinghai Li, Binglu Liu, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2021, 23(7): 7974-7986.</em></div>
     <div class="links">
