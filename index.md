@@ -30,10 +30,10 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Award and Honors
-- **[2016/10 & 2017/10 & 2018/10]**  Premium Scholarship for Academic Year (×3)
 - **[2016/12 & 2018/12]**  National Scholarship for Undergraduate Students (×2)
-- **[2021/10 & 2023/10]**  Comprehensive First Prize Scholarship (×2)
+- **[2016/10 & 2017/10 & 2018/10]**  Premium Scholarship for Academic Year (×3)
 - **[2022/12]**  National Scholarship for Doctoral Students (×1)
+- **[2021/10 & 2023/10]**  Comprehensive First Prize Scholarship (×2)
 
 
 {% include_relative _includes/publications.md %}
