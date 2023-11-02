@@ -19,7 +19,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/374249518_A_Systematic_Analysis_of_Subgroup_Research_in_Pedestrian_and_Evacuation_Dynamics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, Citations=0</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 0</i></strong>
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.trc.2023.104154" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/370778880_A_force-based_model_for_adaptively_controlling_the_spatial_configuration_of_pedestrian_subgroups_at_non-extreme_densities" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=8.3, JCR Q1, Citations=2</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.3, Citations = 2</i></strong>
     </div>
   </div>
 </div>
@@ -63,7 +63,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10086659" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/369634950_Automatic_Identification_of_Human_Subgroups_in_Time-Dependent_Pedestrian_Flow_Networks" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=7.3, JCR Q1, Citations=3</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 7.3, Citations = 3</i></strong>
     </div>
   </div>
 </div>
@@ -85,7 +85,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9834308" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/362145944_Simulating_the_Evacuation_Process_Involving_Multitype_Disabled_Pedestrians" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=5.0, JCR Q1, Citations=0</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 5.0, Citations = 0</i></strong>
     </div>
   </div>
 </div>
@@ -107,7 +107,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9690768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/358082311_Modeling_Crowd_Evacuation_via_Behavioral_Heterogeneity-Based_Social_Force_Model" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, Citations=15</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 15</i></strong>
     </div>
   </div>
 </div>
@@ -129,7 +129,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9614079" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/356191424_Visual_Information_Based_Social_Force_Model_for_Crowd_Evacuation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=6.6, JCR Q1, Citations=12</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 6.6, Citations = 12</i></strong>
     </div>
   </div>
 </div>
@@ -151,7 +151,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9424478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/351353205_An_Extended_Social_Force_Model_via_Pedestrian_Heterogeneity_Affecting_the_Self-Driven_Force" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, Citations=25</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 25</i></strong>
     </div>
   </div>
 </div>
@@ -173,7 +173,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/348148415_Reconstruction_of_Tree_Network_via_Evolutionary_Game_Data_Analysis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=11.8, JCR Q1, Citations=3</i></strong>
+      <strong><i style="color:#7b5aa6">JCR Q1, IF = 11.8, Citations = 3</i></strong>
     </div>
   </div>
 </div>
