@@ -141,7 +141,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TITS2021.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TITS</abbr>
+    <abbr class="badge">IEEE TITS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -163,7 +163,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TCYB2020.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCYB</abbr>
+    <abbr class="badge">IEEE TCYB</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
