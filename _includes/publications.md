@@ -167,7 +167,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9311833" target="_blank">Reconstruction of tree network via evolutionary game data analysis</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9311833" target="_blank">1. Reconstruction of tree network via evolutionary game data analysis</a></div>
     <div class="author">Xiaoping Zheng, <strong>Wenhan Wu</strong>, Wenfeng Deng, Chunhua Yang, Keke Huang</div>
     <div class="periodical"><em>IEEE Transactions on Cybernetics, 2020, 52(7): 6083-6094.</em></div>
     <div class="links">
