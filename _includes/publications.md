@@ -135,6 +135,49 @@
 </div>
 </li>
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TITS2021.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TITS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9424478" target="_blank">An extended social force model via pedestrian heterogeneity affecting the self-driven force</a></div>
+    <div class="author"><strong>Wenhan Wu</strong>, Maoyin Chen, Jinghai Li, Binglu Liu, Xiaoping Zheng</div>
+    <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2021, 23(7): 7974-7986.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9424478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.researchgate.net/publication/351353205_An_Extended_Social_Force_Model_via_Pedestrian_Heterogeneity_Affecting_the_Self-Driven_Force" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, First author</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TCYB2020.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCYB</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9311833" target="_blank">Reconstruction of tree network via evolutionary game data analysis</a></div>
+    <div class="author">Xiaoping Zheng, <strong>Wenhan Wu</strong>, Wenfeng Deng, Chunhua Yang, Keke Huang</div>
+    <div class="periodical"><em>IEEE Transactions on Cybernetics, 2020, 52(7): 6083-6094.</em></div>
+    <div class="links">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://www.researchgate.net/publication/348148415_Reconstruction_of_Tree_Network_via_Evolutionary_Game_Data_Analysis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">IF=11.8, JCR Q1, First author</i></strong>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
