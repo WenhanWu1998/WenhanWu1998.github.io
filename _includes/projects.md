@@ -1,4 +1,4 @@
-![NERTSCP2022](https://github.com/WenhanWu1998/WenhanWu1998.github.io/assets/129071662/1a5f1af9-88ec-4e52-b464-2cb3325238fb)<h2 id="publications" style="margin: 2px 0px -15px;">Research Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research Projects</h2>
 
 <div class="publications">
 <ol class="bibliography">
