@@ -6,11 +6,6 @@ layout: homepage
 
 I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_blank"> Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>. Now I'm also a joint PhD student at the <a href="https://www.biologie.hu-berlin.de/de" target="_blank"> Department of Biology</a>, <a href="https://www.hu-berlin.de/de" target="_blank"> Humboldt-Universität zu Berlin</a>, working under the supervision of <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>. My research involves crowd evacuation, pedestrian group, collective behavior, network science, and decision making. I'm interested in a wide range of social and biological systems, from bacterial communities to human groups, including flocks of insects, birds, fish, and mammals, with a particular focus on the collective behaviors originating from local interactions between individuals.
 
-In the summer of 2022, I had the opportunity to work as a Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. 
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>, and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>. 
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
-
 
 ## Research Interests
 - **Network Science:**  Reconstructing the potential structure of complex networks
