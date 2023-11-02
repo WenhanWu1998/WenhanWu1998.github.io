@@ -42,10 +42,6 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 
-
-
-
-
 ## Collaborative Research
 
 - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
@@ -58,7 +54,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **<a href="https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications?_gl=1*1apxcw5*_ga*MjAzMTYyNzg4Mi4xNjgyNjcxMzM1*_ga_4R527DM8F7*MTY5ODk1NDg2Mi4xNi4xLjE2OTg5NTQ4NzMuMC4wLjA." target="_blank"> Physica A: Statistical Mechanics and its Applications </a>**
 - **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Simulation Modelling Practice and Theory </a>**
 - **<a href="https://collective-dynamics.eu/index.php/cod/index" target="_blank"> Collective Dynamics </a>**
-
+- **<a href="https://its.papercept.net/conferences/scripts/login.pl" target="_blank"> IEEE International Conference on Intelligent Transportation Systems (ITSC) </a>**
 
 
 ## Computer & Language Skills
