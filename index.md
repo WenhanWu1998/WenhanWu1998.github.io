@@ -49,7 +49,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
 
 
-## Journal Reviewers
+## Journal & Conference Reviewers
 - **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902" target="_blank"> IEEE Transactions on Network Science and Engineering </a>**
 - **<a href="https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications?_gl=1*1apxcw5*_ga*MjAzMTYyNzg4Mi4xNjgyNjcxMzM1*_ga_4R527DM8F7*MTY5ODk1NDg2Mi4xNi4xLjE2OTg5NTQ4NzMuMC4wLjA." target="_blank"> Physica A: Statistical Mechanics and its Applications </a>**
 - **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Simulation Modelling Practice and Theory </a>**
