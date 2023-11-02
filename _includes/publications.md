@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://doi.org/10.1016/j.trc.2023.104154" target="_blank">7. A force-based model for adaptively controlling the spatial configuration of pedestrian subgroups at non-extreme densities</a></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.trc.2023.104154" target="_blank">7. A Force-Based Model for Adaptively Controlling the Spatial Configuration of Pedestrian Subgroups at Non-Extreme Densities</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Xiaolu Wang, Xiaoping Zheng*</div>
     <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2023, 152: 104154.</em></div>
     <div class="links">
@@ -123,7 +123,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9614079" target="_blank">3. Visual information based social force model for crowd evacuation</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9614079" target="_blank">3. Visual Information Based Social Force Model for Crowd Evacuation</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Maoyin Chen, Jinghai Li, Binglu Liu, Xiaolu Wang, Xiaoping Zheng*</div>
     <div class="periodical"><em>Tsinghua Science and Technology, 2021, 27(3): 619-629.</em></div>
     <div class="links">
@@ -145,7 +145,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9424478" target="_blank">2. An extended social force model via pedestrian heterogeneity affecting the self-driven force</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9424478" target="_blank">2. An Extended Social Force Model via Pedestrian Heterogeneity Affecting the Self-Driven Force</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Maoyin Chen, Jinghai Li, Binglu Liu, Xiaoping Zheng*</div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2021, 23(7): 7974-7986.</em></div>
     <div class="links">
@@ -167,7 +167,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9311833" target="_blank">1. Reconstruction of tree network via evolutionary game data analysis</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9311833" target="_blank">1. Reconstruction of Tree Network via Evolutionary Game Data Analysis</a></div>
     <div class="author">Xiaoping Zheng<sup>#</sup>, <strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Deng, Chunhua Yang, Keke Huang*</div>
     <div class="periodical"><em>IEEE Transactions on Cybernetics, 2020, 52(7): 6083-6094.</em></div>
     <div class="links">
