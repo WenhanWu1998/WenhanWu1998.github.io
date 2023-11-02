@@ -35,7 +35,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://service.most.gov.cn/" target="_blank">1. Personnel Evacuation Technology and Assistance Systems for Disabled People in Winter Olympic and Paralympic Games</a></div>
     <div class="author"><strong>Wenhan Wu</strong> (Technical Research Part) </div>
-    <div class="periodical"><em>National Key Research and Development Program of China, 2020 - 2022</em></div>
+    <div class="periodical"><em>National Key Research and Development Program of China,    2020 - 2022</em></div>
     <div class="links">
       <a href="https://service.most.gov.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
     </div>
