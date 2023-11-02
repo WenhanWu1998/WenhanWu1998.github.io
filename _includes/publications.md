@@ -14,12 +14,12 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10265759">A Systematic Analysis of Subgroup Research in Pedestrian and Evacuation Dynamics</a></div>
-    <div class="author"><strong>Wenhan Wu, Xiaoping Zheng</strong></div>
+    <div class="author"><strong>Wenhan Wu</strong>, Xiaoping Zheng</div>
     <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 1-22, Early Access Article</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF = 8.5, JCR Q1, First author</i></strong>
+      <strong><i style="color:#7b5aa6">IF=8.5, JCR Q1, First author</i></strong>
     </div>
   </div>
 </div>
@@ -31,18 +31,17 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <abbr class="badge">TRC</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Open Case Studies</a></div>
-    <div class="author">Stephanie Hicks, Leah Jager, Margaret Taub, Carrie Wright, John Muschelli, Lyla Atta, Michael Breshock, Qier Meng, Alexandra Stephens, <strong>Hanchao Zhang</strong>, and etc. </div>
-    <div class="periodical"><em>the Johns Hopkins University, and Bloomberg American Health Initiative.</em></div>
+    <div class="title"><a href="https://doi.org/10.1016/j.trc.2023.104154" target="_blank">A force-based model for adaptively controlling the spatial configuration of pedestrian subgroups at non-extreme densities</a></div>
+    <div class="author"><strong>Wenhan Wu</strong>, Wenfeng Yi, Xiaolu Wang, Xiaoping Zheng</div>
+    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2023, 152: 104154</em></div>
     <div class="links">
-      <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/orgs/opencasestudies/teams/jhu-research-assistants" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Contact</a>
+    <a href="https://doi.org/10.1016/j.trc.2023.104154" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#7b5aa6">IF=8.3, JCR Q1, First author</i></strong>
     </div>
   </div>
 </div>
