@@ -46,7 +46,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 
-## Collaboration
+## Collaborative Research
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
@@ -59,7 +59,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 {% include_relative _includes/services.md %}
 
 
-## Computer & Language Skill
+## Computer & Language Skills
 - **Software:**  MATLAB, Eclipse, PyCharm, VS Code
 - **Code:**  C/C++, Python, R, MATLAB, LaTeX
 - **OS:**  Windows, Linux
