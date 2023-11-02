@@ -29,7 +29,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - **2023/04--present:**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**
 
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/talks.md %}
 
