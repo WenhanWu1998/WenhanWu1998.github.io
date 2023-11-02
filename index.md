@@ -16,17 +16,17 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Network Science:** reconstructing the potential structure of complex networks
-- **Crowd Evacuation:** simulating the evacuation process of heterogenous individuals
-- **Pedestrian Subgroup:** modeling the movement behavior of pedestrian subgroups
-- **Decision Making:** exploring the decision making of subgroups when facing obstacles
-- **Behavioral Contagion:** studying the behavioral contagion of fish groups during startle cascades
+- **Network Science:**  Reconstructing the potential structure of complex networks
+- **Crowd Evacuation:**  Simulating the evacuation process of heterogenous individuals
+- **Pedestrian Subgroup:**  Modeling the movement behavior of pedestrian subgroups
+- **Decision Making:**  Exploring the decision making of subgroups when facing obstacles
+- **Behavioral Contagion:**  Studying the behavioral contagion of fish groups during startle cascades
 
 
 ## Education
-- **2015/09--2019/06:** Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: Prof. Keke Huang**
-- **2019/09--present:** Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: Prof. Xiaoping Zheng**
-- **2023/04--present:** Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: Prof. Pawel Romanczuk**
+- **2015/09--2019/06:**  Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: Prof. Keke Huang**
+- **2019/09--present:**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: Prof. Xiaoping Zheng**
+- **2023/04--present:**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: Prof. Pawel Romanczuk**
 
 <!-- {% include_relative _includes/publications.md %} -->
 
