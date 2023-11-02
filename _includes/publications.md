@@ -40,7 +40,7 @@
     <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2023, 152: 104154</em></div>
     <div class="links">
     <a href="https://doi.org/10.1016/j.trc.2023.104154" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.researchgate.net/publication/370778880_A_force-based_model_for_adaptively_controlling_the_spatial_configuration_of_pedestrian_subgroups_at_non-extreme_densities" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong><i style="color:#7b5aa6">IF=8.3, JCR Q1, First author</i></strong>
     </div>
   </div>
