@@ -58,14 +58,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OCS.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <img src="assets/img/NKRDPC2020-2022.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">2020--2022</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Personnel Evacuation Technology and Assistance Systems for Disabled People in Beijing Winter Olympic and Paralympic Games</a></div>
-    <div class="author"><strong>Wenhan Wu</strong> (Responsible for technical components) </div>
-    <div class="periodical"><em>National Key Research and Development Program of China, 2022</em></div>
+    <div class="author"><strong>Wenhan Wu</strong> (Technical Research) </div>
+    <div class="periodical"><em>National Key Research and Development Program of China, </em></div>
     <div class="links">
       <a href="https://americanhealth.jhu.edu/open-case-studies" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
