@@ -173,7 +173,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://www.researchgate.net/publication/348148415_Reconstruction_of_Tree_Network_via_Evolutionary_Game_Data_Analysis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#7b5aa6">IF=11.8, JCR Q1, First author</i></strong>
+      <strong><i style="color:#7b5aa6">IF=11.8, JCR Q1, Co-first author</i></strong>
     </div>
   </div>
 </div>
