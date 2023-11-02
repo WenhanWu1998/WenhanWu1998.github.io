@@ -24,9 +24,9 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Education Experience
-- **2015/09--2019/06:**  Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: Prof. Keke Huang**
-- **2019/09--present:**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: Prof. Xiaoping Zheng**
-- **2023/04--present:**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: Prof. Pawel Romanczuk**
+- **2015/09--2019/06:**  Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: <a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**
+- **2019/09--present:**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**
+- **2023/04--present:**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="</a>**" target="_blank"> Prof. Pawel Romanczuk</a>**
 
 
 {% include_relative _includes/projects.md %}
