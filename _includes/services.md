@@ -9,9 +9,10 @@
   <li><a href="https://collective-dynamics.eu/index.php/cod/index" target="_blank"> Collective Dynamics </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <!-- 
+<h4 style="margin:0 10px 0;">Membership & Activities</h4>
+
 <ul style="margin:0 0 20px;">
   <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
   <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
