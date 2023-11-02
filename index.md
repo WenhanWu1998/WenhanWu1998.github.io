@@ -16,10 +16,11 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
+- **Network Science:** reconstructing the potential structure of complex networks
+- **Crowd Evacuation:** simulating the evacuation process of heterogenous individuals
+- **Pedestrian Subgroup:** modeling the movement behavior of pedestrian subgroups
+- **Decision Making:** exploring the decision making of subgroups when facing obstacles
+- **Behavioral Contagion:** studying the behavioral contagion of fish groups during startle cascades
 
 
 ## Awards
