@@ -8,6 +8,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ESWA2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ESWA</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0957417423032633">9. Experimental study on the decision-making and motion behavior of subgroups when facing a static obstacle during movement</a></div>
+    <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Xiaolu Wang, Erhui Wang, Xiaoping Zheng*</div>
+    <div class="periodical"><em>Expert Systems with Applications, 2023, 242: 122761.</em></div>
+    <div class="links">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0957417423032633" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+      <a href="assets/files/2023 ESWA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 0</strong>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TITS2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TITS</abbr>
   </div>
@@ -19,7 +41,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 0</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 1</strong>
     </div>
   </div>
 </div>
@@ -41,7 +63,7 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.trc.2023.104154" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 TRC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.3, Citations = 2</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.3, Citations = 3</strong>
     </div>
   </div>
 </div>
