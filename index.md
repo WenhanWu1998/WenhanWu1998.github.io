@@ -47,12 +47,13 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **<a href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction"> International Journal of Disaster Risk Reduction </a>**
 - **<a href="https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications?_gl=1*1apxcw5*_ga*MjAzMTYyNzg4Mi4xNjgyNjcxMzM1*_ga_4R527DM8F7*MTY5ODk1NDg2Mi4xNi4xLjE2OTg5NTQ4NzMuMC4wLjA." target="_blank"> Physica A: Statistical Mechanics and its Applications </a>**
 - **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Simulation Modelling Practice and Theory </a>**
-- **<a href="https://collective-dynamics.eu/index.php/cod/index" target="_blank"> Collective Dynamics </a>**
+- **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Scientific Reports </a>**
+- **<a href="https://www.nature.com/srep/" target="_blank"> Collective Dynamics </a>**
 - **<a href="https://its.papercept.net/conferences/scripts/login.pl" target="_blank"> IEEE International Conference on Intelligent Transportation Systems (ITSC) </a>**
 
 
 ## Computer & Language Skills
-- **Software:**  MATLAB, Eclipse, PyCharm, VS Code
-- **Code:**  C/C++, Python, R, MATLAB, LaTeX
-- **OS:**  Windows, Linux
-- **Langages:**  Chinese (Native), English
+- **Research Software:**  MATLAB, Eclipse, PyCharm, VS Code
+- **Programming Code:**  C/C++, Python, R, MATLAB, LaTeX
+- **Operating System (OS):**  Windows, Linux
+- **Language Skill:**  Chinese (Native), English
