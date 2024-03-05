@@ -19,7 +19,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **Behavioral Contagion:**  Studying the behavioral contagion of fish groups during startle cascades
   <br>(Since 2023, Joint Ph.D. research, under the supervision of **<a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**)<br>
 - **Collective behavior:**  Analyzing the self-organization of pedestrian random walk in corridors
-  <br>(Since2022, Collaborative research, under the supervision of **<a href="https://crca.cbi-toulouse.fr/en/guytheraulaz/" target="_blank"> Prof. Guy Theraulaz</a>** and **<a href="https://www.lpt.ups-tlse.fr/spip.php?article34&lang=fr" target="_blank"> Prof. Clément Sire</a>**)<br>
+  <br>(Since 2022, Collaborative research, under the supervision of **<a href="https://crca.cbi-toulouse.fr/en/guytheraulaz/" target="_blank"> Prof. Guy Theraulaz</a>** and **<a href="https://www.lpt.ups-tlse.fr/spip.php?article34&lang=fr" target="_blank"> Prof. Clément Sire</a>**)<br>
 
 
 ## Education Experience
