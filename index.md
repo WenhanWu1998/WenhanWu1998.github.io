@@ -10,11 +10,16 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 ## Research Interests
 - **Network Science:**  Reconstructing the potential structure of complex networks
   (2018-2019, Part of the Bachelor Thesis, under the supervision of **<a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**)
-- **Crowd Evacuation:**  Simulating the evacuation process of heterogenous individuals (2019-2021, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
-- **Pedestrian Subgroup:**  Modeling the movement behavior of pedestrian subgroups (2020-2023, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
-- **Decision Making:**  Exploring the decision making of subgroups when facing obstacles (2022-2023, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
-- **Behavioral Contagion:**  Studying the behavioral contagion of fish groups during startle cascades (Since 2023, Joint Ph.D. research, under the supervision of **<a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**)
-- **Collective behavior:**  Analyzing the self-organization of pedestrian random walk in corridors (Since2022, Collaborative research, under the supervision of **<a href="https://crca.cbi-toulouse.fr/en/guytheraulaz/" target="_blank"> Prof. Guy Theraulaz</a>** and **<a href="https://www.lpt.ups-tlse.fr/spip.php?article34&lang=fr" target="_blank"> Prof. Clément Sire</a>**)
+- **Crowd Evacuation:**  Simulating the evacuation process of heterogenous individuals
+  (2019-2021, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
+- **Pedestrian Subgroup:**  Modeling the movement behavior of pedestrian subgroups
+  (2020-2023, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
+- **Decision Making:**  Exploring the decision making of subgroups when facing obstacles
+  (2022-2023, Part of the Ph.D. Thesis, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)
+- **Behavioral Contagion:**  Studying the behavioral contagion of fish groups during startle cascades
+  (Since 2023, Joint Ph.D. research, under the supervision of **<a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**)
+- **Collective behavior:**  Analyzing the self-organization of pedestrian random walk in corridors
+  (Since2022, Collaborative research, under the supervision of **<a href="https://crca.cbi-toulouse.fr/en/guytheraulaz/" target="_blank"> Prof. Guy Theraulaz</a>** and **<a href="https://www.lpt.ups-tlse.fr/spip.php?article34&lang=fr" target="_blank"> Prof. Clément Sire</a>**)
 
 
 ## Education Experience
