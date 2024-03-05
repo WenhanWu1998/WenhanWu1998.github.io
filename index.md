@@ -10,7 +10,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 ## Research Interests
 - **Network Science:**  Reconstructing the potential structure of complex networks
   <br>(2018-2019, Bachelor Thesis, under the supervision of **<a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**)<br>
-- **Crowd Behavior:**  Simulating the evacuation process of heterogenous human crowds, developing a method to automatically identify human subgroups, modeling the movement behavior of pedestrian subgroups, and exploring the decision making of subgroups when facing static obstacles.
+- **Crowd Behavior:**  Simulating the evacuation process of heterogenous individuals, developing a novel algorithm to automatically identify human subgroups, modeling the movement behavior of pedestrian subgroups, and exploring the decision making of subgroups when facing a static obstacle.
   <br>(2019-2024, Ph.D. Project, under the supervision of **<a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**)<br>
 - **Behavioral Contagion:**  Studying the behavioral contagion of fish groups during startle cascades
   <br>(Since 2023, Joint Ph.D. research, under the supervision of **<a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**)<br>
