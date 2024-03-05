@@ -58,7 +58,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **<a href="https://its.papercept.net/conferences/scripts/login.pl" target="_blank"> IEEE International Conference on Intelligent Transportation Systems (ITSC) </a>**
 
 
-## Computer & Language Skills
+## Research Skills
 - **Research Software:**  MATLAB, Eclipse, PyCharm, VS Code
 - **Programming Code:**  C/C++, Python, R, MATLAB, LaTeX
 - **Operating System (OS):**  Windows, Linux
