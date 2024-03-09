@@ -130,7 +130,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9690768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2022 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 17</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 19</strong>
     </div>
   </div>
 </div>
