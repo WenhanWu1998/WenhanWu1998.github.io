@@ -46,6 +46,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 
 ## Journal & Conference Reviewers
 - **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902" target="_blank"> IEEE Transactions on Network Science and Engineering </a>**
+- **<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857"> IEEE Transactions on Intelligent Vehicles </a>**
 - **<a href="https://www.sciencedirect.com/journal/international-journal-of-disaster-risk-reduction"> International Journal of Disaster Risk Reduction </a>**
 - **<a href="https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications?_gl=1*1apxcw5*_ga*MjAzMTYyNzg4Mi4xNjgyNjcxMzM1*_ga_4R527DM8F7*MTY5ODk1NDg2Mi4xNi4xLjE2OTg5NTQ4NzMuMC4wLjA." target="_blank"> Physica A: Statistical Mechanics and its Applications </a>**
 - **<a href="https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory" target="_blank"> Simulation Modelling Practice and Theory </a>**
