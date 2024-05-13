@@ -19,8 +19,8 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 
 
 ## Education Experience
-- **[2015/09--2019/06]**  Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: <a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**
-- **[2019/09--present]**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**
+- **[2015/09--2019/06]**  Bachelor Degree in Engineering, School of Automation, Central South University, Changsha, China. **Supervisor: <a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**
+- **[2019/09--present]**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University, Beijing, China. **Supervisor: <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**
 - **[2023/04--2024/04]**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**
 
 
