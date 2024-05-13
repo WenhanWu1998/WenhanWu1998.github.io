@@ -4,7 +4,7 @@ layout: homepage
 
 ## Personal Profile
 
-I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_blank"> Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>. Now I'm also a joint Ph.D. student at the <a href="https://www.biologie.hu-berlin.de/de" target="_blank"> Department of Biology</a>, <a href="https://www.hu-berlin.de/de" target="_blank"> Humboldt-Universität zu Berlin</a>, working under the supervision of <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>. My research involves crowd evacuation, pedestrian group, collective behavior, network science, and decision making. I'm interested in a wide range of social and biological systems, from bacterial communities to human groups, including flocks of insects, birds, fish, and mammals, with a particular focus on the collective behaviors originating from local interactions between individuals, and a desire to understand the mechanisms behind the coordinated movements of animal groups.
+I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_blank"> Department of Automation</a>, <a href="https://www.tsinghua.edu.cn/" target="_blank"> Tsinghua University</a>, working under the supervision of <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>. My research involves crowd evacuation, pedestrian group, collective behavior, network science, and decision making. I'm interested in a wide range of social and biological systems, from bacterial communities to human groups, including flocks of insects, birds, fish, and mammals, with a particular focus on the collective behaviors originating from local interactions between individuals, and a desire to understand the mechanisms behind the coordinated movements of animal groups. I also collaborate closely with <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a> at the Department of Biology</a>, Humboldt-Universität zu Berlin</a>, Germany and <a href="https://crca.cbi-toulouse.fr/en/guytheraulaz/" target="_blank"> Prof. Guy Theraulaz</a> at the Centre de Recherches sur la Cognition Animale, Université Paul Sabatier, France.
 
 
 ## Research Interests
@@ -21,7 +21,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 ## Education Experience
 - **[2015/09--2019/06]**  Bachelor Degree in Engineering, School of Automation, Central South University (985, 211), Changsha, China. **Supervisor: <a href="https://faculty.csu.edu.cn/huangkeke/zh_CN/index.htm" target="_blank"> Prof. Keke Huang</a>**
 - **[2019/09--present]**  Ph.D. Student in Control Science and Engineering, Department of Automation, Tsinghua University (985, 211), Beijing, China. **Supervisor: <a href="https://www.au.tsinghua.edu.cn/info/1110/1580.htm" target="_blank"> Prof. Xiaoping Zheng</a>**
-- **[2023/04--present]**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**
+- **[2023/04--2024/04]**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**
 
 
 ## Award & Honors
