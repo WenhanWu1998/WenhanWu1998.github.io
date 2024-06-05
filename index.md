@@ -24,6 +24,11 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **[2023/04--2024/04]**  Joint Ph.D. Student in Theoretical Biology, Department of Biology, Humboldt-Universität zu Berlin, Berlin, Germany. **Supervisor: <a href="http://lab.romanczuk.de/people/" target="_blank"> Prof. Pawel Romanczuk</a>**
 
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
+
+
 ## Award & Honors
 - **[2016/12 & 2018/12]**  National Scholarship for Undergraduate Students (×2)
 - **[2016/10 & 2017/10 & 2018/10]**  Premium Scholarship for Academic Year (×3)
@@ -31,14 +36,10 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **[2021/10 & 2023/10]**  Comprehensive First Prize Scholarship (×2)
 
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/projects.md %}
-
-
 ## Conference & Workshop
 - **[2024/02/15--2024/02/17]**  25th Seminar "Pattern formation in Biophysics and Chemistry", Berlin Center for Studies of Complex Chemical Systems, Erfurt, Germany. (Workshop)
 - **[2024/05/27--2024/05/31]**  "Collective Motions of Animals and Robots", Research Institute Scientists De Cargèse, Cargèse, Corsica Island, France. (Poster presentation)
+
 
 <!-- 
 ## Collaborative Research
