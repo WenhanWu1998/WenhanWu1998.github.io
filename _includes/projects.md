@@ -17,7 +17,7 @@
     <div class="author"><strong>Wenhan Wu</strong> (Technical Research Part) </div>
     <div class="periodical"><em>National Emergency Response Technical Support Center Project, 2023 - 2024</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
+<!--       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a> -->
     </div>
   </div>
 </div>
@@ -37,7 +37,7 @@
     <div class="author"><strong>Wenhan Wu</strong> (Technical Research Part) </div>
     <div class="periodical"><em>National Key Research and Development Program of China, 2020 - 2022</em></div>
     <div class="links">
-      <a href="https://service.most.gov.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a>
+<!--       <a href="https://service.most.gov.cn/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Website</a> -->
     </div>
   </div>
 </div>
