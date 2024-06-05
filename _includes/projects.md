@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="" target="_blank">2. Consequence Evaluation and Decision Support System for National Level Accidents</a></div>
+    <div class="title">2. Consequence Evaluation and Decision Support System for National Level Accidents</div>
     <div class="author"><strong>Wenhan Wu</strong> (Technical Research Part) </div>
     <div class="periodical"><em>National Emergency Response Technical Support Center Project, 2023 - 2024</em></div>
     <div class="links">
@@ -33,7 +33,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://service.most.gov.cn/" target="_blank">1. Personnel Evacuation Technology and Assistance Systems for Disabled People in Winter Olympic and Paralympic Games</a></div>
+    <div class="title">1. Personnel Evacuation Technology and Assistance Systems for Disabled People in Winter Olympic and Paralympic Games</div>
     <div class="author"><strong>Wenhan Wu</strong> (Technical Research Part) </div>
     <div class="periodical"><em>National Key Research and Development Program of China, 2020 - 2022</em></div>
     <div class="links">
