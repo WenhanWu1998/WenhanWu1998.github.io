@@ -53,7 +53,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 - **IEEE Transactions on Network Science and Engineering**
 - **IEEE Transactions on Intelligent Vehicles**
 - **International Journal of Disaster Risk Reduction**
-- **<Physica A: Statistical Mechanics and its Applications**
+- **Physica A: Statistical Mechanics and its Applications**
 - **Simulation Modelling Practice and Theory**
 - **Scientific Reports**
 - **Collective Dynamics**
