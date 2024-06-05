@@ -130,7 +130,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9834308" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2022 IEEE TCSS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 5.0, Citations = 0</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 5.0, Citations = 1</strong>
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9690768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2022 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 24</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 27</strong>
     </div>
   </div>
 </div>
@@ -196,7 +196,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9424478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2021 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 38</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.5, Citations = 41</strong>
     </div>
   </div>
 </div>
@@ -218,7 +218,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2020 IEEE TCYB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 11.8, Citations = 3</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 11.8, Citations = 5</strong>
     </div>
   </div>
 </div>
