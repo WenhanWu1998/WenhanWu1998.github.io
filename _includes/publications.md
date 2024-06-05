@@ -108,7 +108,7 @@
     <a href="https://ieeexplore.ieee.org/abstract/document/10086659" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TMM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/2023 IEEE TMM_SM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp.</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.3, Citations = 3</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 7.3, Citations = 4</strong>
     </div>
   </div>
 </div>
