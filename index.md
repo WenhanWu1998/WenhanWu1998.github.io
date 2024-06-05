@@ -38,7 +38,7 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 
 ## Conference & Workshop
 - **[2024/02/15--2024/02/17]**  25th Seminar "Pattern formation in Biophysics and Chemistry", Berlin Center for Studies of Complex Chemical Systems, Erfurt, Germany. (Workshop)
-- **[2024/05/27--2024/05/31]**  "Collective Motions of Animals and Robots", Research Institute Scientists De Cargèse, Cargèse, Corsica Island, France. (Poster presentation)
+- **[2024/05/27--2024/05/31]**  "Collective Motions of Animals and Robots", Research Institute Scientists De Cargèse, Cargèse, Corsica Island, France. (Poster Presentation)
 
 
 <!-- 
