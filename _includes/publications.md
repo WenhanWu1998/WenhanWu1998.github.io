@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10265759">8. A Systematic Analysis of Subgroup Research in Pedestrian and Evacuation Dynamics</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Xiaoping Zheng*</div>
-    <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 1-22, Early Access Article.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2023, 25(2): 1225-1246.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -103,7 +103,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10086659" target="_blank">6. Automatic Identification of Human Subgroups in Time-Dependent Pedestrian Flow Networks</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Jinghai Li, Maoyin Chen, Xiaoping Zheng*</div>
-    <div class="periodical"><em>IEEE Transactions on Multimedia, 2023, 1-12, Early Access Article.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Multimedia, 2023, 26: 166-177.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10086659" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TMM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
