@@ -19,7 +19,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/10595841/authors#authors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2024 TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
   </div>
 </div>
@@ -41,7 +41,7 @@
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0957417423032633" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 ESWA.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.5, Citations = 0</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.5, Citations = 0</strong> -->
     </div>
   </div>
 </div>
@@ -63,7 +63,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/10265759" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 4</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 4</strong> -->
     </div>
   </div>
 </div>
@@ -85,7 +85,7 @@
     <div class="links">
     <a href="https://doi.org/10.1016/j.trc.2023.104154" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 TRC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.6, Citations = 3</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.6, Citations = 3</strong> -->
     </div>
   </div>
 </div>
@@ -108,7 +108,7 @@
     <a href="https://ieeexplore.ieee.org/abstract/document/10086659" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2023 IEEE TMM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/2023 IEEE TMM_SM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp.</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 8.4, Citations = 4</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 8.4, Citations = 4</strong> -->
     </div>
   </div>
 </div>
@@ -130,7 +130,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9834308" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2022 IEEE TCSS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 4.5, Citations = 1</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 4.5, Citations = 1</strong> -->
     </div>
   </div>
 </div>
@@ -152,7 +152,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9690768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2022 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 33</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 33</strong> -->
     </div>
   </div>
 </div>
@@ -174,7 +174,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9614079" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2021 TST.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 5.2, Citations = 15</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 5.2, Citations = 15</strong> -->
     </div>
   </div>
 </div>
@@ -196,7 +196,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9424478" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2021 IEEE TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 43</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 43</strong> -->
     </div>
   </div>
 </div>
@@ -218,7 +218,7 @@
     <div class="links">
     <a href="https://ieeexplore.ieee.org/abstract/document/9311833" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2020 IEEE TCYB.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 9.4, Citations = 6</strong>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 9.4, Citations = 6</strong> -->
     </div>
   </div>
 </div>
