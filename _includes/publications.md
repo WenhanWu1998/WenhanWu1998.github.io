@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>11. A Vision-driven Model Based on Cognitive Heuristics for Simulating Subgroup Behaviors During Evacuation</a></div>
+    <div class="title"><a>11. How Social Attributes Affect the Movement Process of Subgroups When Facing a Static Obstacle</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Erhui Wang, Xiaolu Wang, Xiaoping Zheng*</div>
     <div class="periodical"><em>Under review.</em></div>
     <div class="links">
