@@ -37,10 +37,10 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>11. How Social Attributes Affect the Movement Process of Subgroups When Facing a Static Obstacle</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Erhui Wang, Xiaolu Wang, Xiaoping Zheng*</div>
-    <div class="periodical"><em>IEEE Transactions on Computational Social Systems, Accepted</em></div>
+    <div class="periodical"><em>IEEE Transactions on Computational Social Systems, 2024, 1-13, Early Access Article.</em></div>
     <div class="links">
-<!--     <a href="https://ieeexplore.ieee.org/document/10595841/authors#authors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a> -->
-<!--       <a href="assets/files/2024 TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+    <a href="https://ieeexplore.ieee.org/document/10758305" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+      <a href="assets/files/2024 TCSS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
   </div>
@@ -59,9 +59,9 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0957417423032633">10. A Vision-driven Model Based on Cognitive Heuristics for Simulating Subgroup Behaviors During Evacuation</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Xiaolu Wang, Xiaoping Zheng*</div>
-    <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2024, 1-11, Early Access Article.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Intelligent Transportation Systems, 2024, 1-11, 25(11): 16048-16058.</em></div>
     <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/10595841/authors#authors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+    <a href="https://ieeexplore.ieee.org/document/10595841" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2024 TITS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
