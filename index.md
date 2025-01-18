@@ -30,10 +30,12 @@ I'm a Ph.D. student at the <a href="https://www.au.tsinghua.edu.cn/" target="_bl
 
 
 ## Award & Honors
-- **[2016/12 & 2018/12]**  National Scholarship for Undergraduate Students (×2)
-- **[2016/10 & 2017/10 & 2018/10]**  Premium Scholarship for Academic Year (×3)
-- **[2022/12]**  National Scholarship for Doctoral Students (×1)
-- **[2021/10 & 2023/10]**  Comprehensive First Prize Scholarship (×2)
+- **[2016/12 & 2018/12]**  National Scholarship for Undergraduate Students, Central South University
+- **[2016/10 & 2017/10 & 2018/10]**  Academic Excellence Scholarship (Grand Prize), Central South University
+- **[2022/12]**  National Scholarship for Doctoral Students, Tsinghua University
+- **[2021/10 & 2023/10 & 2024/11]**  Academic Excellence Scholarship (First Prize), Tsinghua University
+- **[2025/01]**  Zheng Weimin Scholarship (First Prize), Tsinghua University
+- **[2024/12]**  Outstanding PhD Graduates, Beijing General Colleges and Universities
 
 
 ## Conference & Workshop
