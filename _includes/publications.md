@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>11. How Social Attributes Affect the Movement Process of Subgroups When Facing a Static Obstacle</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi, Erhui Wang, Xiaolu Wang, Xiaoping Zheng*</div>
-    <div class="periodical"><em>IEEE Transactions on Computational Social Systems, 2024, 1-13, Early Access Article.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Computational Social Systems, 2024, 12(2): 658-670.</em></div>
     <div class="links">
     <a href="https://ieeexplore.ieee.org/document/10758305" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2024 TCSS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
