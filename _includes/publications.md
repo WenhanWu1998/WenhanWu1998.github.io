@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Research Articles (First & Co-first Author)</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research Articles (as First & Corresponding Author)</h2>
 
 <div class="publications">
 <ol class="bibliography">
