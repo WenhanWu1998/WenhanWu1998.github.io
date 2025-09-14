@@ -7,6 +7,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/RESS2025a.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">RESS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a>14. Control strategies for order-disorder phase transition in crowd evacuation</a></div>
+    <div class="author"><strong>Wenfeng Yi</strong><sup>#</sup>, Wenhan Wu*</div>
+    <div class="periodical"><em>Reliability Engineering & System Safety, 2025, 266: 111688.</em></div>
+    <div class="links">
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025008889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+      <a href="assets/files/2025 RESSa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RESS2025.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">RESS</abbr>
   </div>
@@ -16,7 +38,7 @@
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi*</div>
     <div class="periodical"><em>Reliability Engineering & System Safety, 2025, 266: 111649.</em></div>
     <div class="links">
-    <a href="https://www.sciencedirect.com/science/article/pii/S095183202500849X?ref=pdf_download&fr=RR-2&rr=97d0975ad9092e9b" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500849X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2025 RESS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
