@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>14. Control strategies for order-disorder phase transition in crowd evacuation</a></div>
-    <div class="author"><strong>Wenfeng Yi</strong><sup>#</sup>, Wenhan Wu*</div>
+    <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
     <div class="periodical"><em>Reliability Engineering & System Safety, 2025, 266: 111688.</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025008889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
