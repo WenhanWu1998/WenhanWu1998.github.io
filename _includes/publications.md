@@ -16,7 +16,7 @@
     <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
     <div class="periodical"><em>Reliability Engineering & System Safety, 2025, 266: 111688.</em></div>
     <div class="links">
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832025008889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0951832025008889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2025 RESSa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
