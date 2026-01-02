@@ -14,10 +14,10 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>15. How subgroups affect the power law governing pedestrian avoidance interactions</a></div>
     <div class="author">Jingwei Ge<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
-    <div class="periodical"><em>Chaos, Solitons & Fractals, 2026, XXX: XXXXXX.</em></div>
+    <div class="periodical"><em>Chaos, Solitons & Fractals, 2026, 205: 117845.</em></div>
     <div class="links">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0951832025008889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
-      <a href="assets/files/2025 RESSa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0960077925018594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+      <a href="assets/files/2026 CSF.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
     </div>
   </div>
