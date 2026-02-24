@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>16. A methodological comparison of interaction neighborhoods in the social force model of panic evacuation</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi*</div>
-    <div class="periodical"><em>Reliability Engineering & System Safety, 2026, xxx: xxxxxx.</em></div>
+    <div class="periodical"><em>Reliability Engineering & System Safety, 2026, xxx: 112457.</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/abs/pii/S095183202500849X" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 RESS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
