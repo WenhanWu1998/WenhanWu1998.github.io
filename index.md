@@ -13,7 +13,7 @@ My name is Wenhan Wu, I have a background in engineering, crowd dynamics, and co
 - **[2024--2026]**  Behavioral Contagion Process in Animal Groups and Human Crowds (Joint Doctoral Research)
 - **[2025--present]**  Analysis of Pedestrian Behavior Based on Trajectory Data (Postdoc Research)
 - **[2022--2025]**  Phase Transition from Disorder to Order in Crowd Evacuation (Collaborative Research)
-- **[2020--2025]**  Other Topics Involving Complex Network, Stairway Evacuation, Swarm Robotics (Bachelor Thesis & Collaborative Research)
+- **[2020--2025]**  Other Topics Involving Complex Network, Stairway Evacuation, Swarm Robotics (Collaborative Research)
 
 
 ## Employment
