@@ -8,12 +8,12 @@ My name is Wenhan Wu, I have a background in engineering, crowd dynamics, and co
 
 
 ## Research Interests
-- **[2020--2022]**  Topic 1: Modeling Heterogeneous Individuals in Crowd Evacuation (Pre-doctoral Research)
-- **[2022--2025]**  Topic 2: Human Subgroups in Pedestrian and Evacuation Dynamics (Doctoral Thesis)
-- **[2024--2026]**  Topic 3: Behavioral Contagion Process in Animal Groups and Human Crowds (Joint Doctoral Research)
-- **[2025--present]**  Topic 4: Analysis of Pedestrian Behavior Based on Trajectory Data (Postdoc Research)
-- **[2022--2025]**  Topic 5: Phase Transition from Disorder to Order in Crowd Evacuation (Collaborative Research)
-- **[2020--2025]**  Topic 6: Other Topics Involving Complex Network, Stairway Evacuation, Swarm Robotics (Bachelor Thesis & Collaborative Research)
+- **[2020--2022]**  Modeling Heterogeneous Individuals in Crowd Evacuation (Pre-doctoral Research)
+- **[2022--2025]**  Human Subgroups in Pedestrian and Evacuation Dynamics (Doctoral Thesis)
+- **[2024--2026]**  Behavioral Contagion Process in Animal Groups and Human Crowds (Joint Doctoral Research)
+- **[2025--present]**  Analysis of Pedestrian Behavior Based on Trajectory Data (Postdoc Research)
+- **[2022--2025]**  Phase Transition from Disorder to Order in Crowd Evacuation (Collaborative Research)
+- **[2020--2025]**  Other Topics Involving Complex Network, Stairway Evacuation, Swarm Robotics (Bachelor Thesis & Collaborative Research)
 
 
 ## Employment
