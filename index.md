@@ -41,8 +41,9 @@ My name is Wenhan Wu, I have a background in engineering, crowd dynamics, and co
 
 
 ## Conference & Workshop
-- **[2024/02/15--2024/02/17]**  25th Seminar "Pattern formation in Biophysics and Chemistry", Berlin Center for Studies of Complex Chemical Systems, Erfurt, Germany. (Workshop)
+- **[2025/10/23–-2025/10/24]**  "MIT Senseable City Open Lab", Venice Biennale, Venice, Italy. (Presentation)
 - **[2024/05/27--2024/05/31]**  "Collective Motions of Animals and Robots", Research Institute Scientists De Cargèse, Cargèse, Corsica Island, France. (Poster Presentation)
+- **[2024/02/15--2024/02/17]**  25th Seminar "Pattern formation in Biophysics and Chemistry", Berlin Center for Studies of Complex Chemical Systems, Erfurt, Germany. (Workshop)
 
 
 <!-- 
