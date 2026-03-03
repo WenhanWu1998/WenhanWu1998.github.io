@@ -67,6 +67,7 @@ My name is Wenhan Wu, I have a background in engineering, crowd dynamics, and co
 - **Simulation Modelling Practice and Theory**
 - **Scientific Reports**
 - **Collective Dynamics**
+- **IEEE International Conference on Intelligent Transportation Systems (ITSC)**
 
 
 ## Research Skills
