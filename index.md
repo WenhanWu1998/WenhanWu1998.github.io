@@ -55,15 +55,18 @@ My name is Wenhan Wu, I have a background in engineering, crowd dynamics, and co
 -->
 
 ## Journal & Conference Reviewers
+- **Transportation Research Part B: Methodological**
+- **Transportation Research Part C: Emerging Technologies**
+- **Transportation Research Interdisciplinary Perspectives**
 - **IEEE Transactions on Network Science and Engineering**
-- **IEEE Transactions on Intelligent Vehicles**
+- **Expert Systems With Applications**
+- **Chaos, Solitons and Fractals**
 - **International Journal of Disaster Risk Reduction**
 - **International Journal of Social Robotics**
-- **Physica A: Statistical Mechanics and its Applications**
+- **International Environmental Psychology**
 - **Simulation Modelling Practice and Theory**
 - **Scientific Reports**
 - **Collective Dynamics**
-- **IEEE International Conference on Intelligent Transportation Systems (ITSC)**
 
 
 ## Research Skills
