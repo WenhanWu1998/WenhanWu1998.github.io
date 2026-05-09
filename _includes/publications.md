@@ -103,7 +103,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>17. Higher-order social networks and order transitions in evacuation: a hypergraph emotion–motion framework</a></div>
     <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
-    <div class="periodical"><em>Reliability Engineering & System Safety, 2026, Under Review.</em></div>
+    <div class="periodical"><em>Reliability Engineering & System Safety, 2026, Revision</em></div>
     <div class="links">
     <a href="xxxxxxxxxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 RESSa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
