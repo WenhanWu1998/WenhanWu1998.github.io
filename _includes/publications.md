@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>22. A Virtual-Laboratory Framework for Bridging Empirical Evacuation Experiments and Social Force Simulations via Adaptive Calibration</a></div>
+    <div class="title"><a>22. A virtual-laboratory framework for bridging empirical evacuation experiments and social force simulations via adaptive calibration</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Jingwei Ge*, Li Li</div>
     <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, Submitted.</em></div>
     <div class="links">
