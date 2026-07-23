@@ -70,7 +70,7 @@
 </li> -->
 
 
-<li>
+<!-- <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -85,11 +85,11 @@
     <div class="links">
     <a href="xxxxxxxxxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 NC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
+      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong>
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 
 <li>
@@ -103,7 +103,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>18. From individual deviations to collective instability: micro–macro effects of pedestrian obstacles in dense crowds</a></div>
     <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
-    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, Under Review.</em></div>
+    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, Revision.</em></div>
     <div class="links">
     <a href="xxxxxxxxxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 TRC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
