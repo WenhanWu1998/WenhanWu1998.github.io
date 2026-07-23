@@ -173,7 +173,7 @@
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0960077925018594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 CSF.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-<!--       <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong> -->
+      <strong style="color:#7b5aa6">JCR Q1, IF = 5.7</strong>
     </div>
   </div>
 </div>
@@ -239,7 +239,7 @@
     <div class="links">
     <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013300" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2025 PRR.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 9.1</strong>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 4.0</strong>
     </div>
   </div>
 </div>
