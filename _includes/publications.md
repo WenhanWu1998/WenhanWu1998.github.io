@@ -127,7 +127,7 @@
     <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
     <div class="periodical"><em>Reliability Engineering & System Safety, 2026, 277: 113179.</em></div>
     <div class="links">
-    <a href="xxxxxxxxxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0951832026009889" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 RESSa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong style="color:#7b5aa6">JCR Q1, IF = 13.7</strong>
     </div>
@@ -149,7 +149,7 @@
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi*</div>
     <div class="periodical"><em>Reliability Engineering & System Safety, 2026, 274: 112457.</em></div>
     <div class="links">
-    <a href="https://linkinghub.elsevier.com/retrieve/pii/S0951832026002735" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0951832026002735" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 RESS.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <strong style="color:#7b5aa6">JCR Q1, IF = 13.7</strong>
     </div>
