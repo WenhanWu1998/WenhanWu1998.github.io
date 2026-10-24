@@ -103,7 +103,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>18. Pedestrians as obstacles in dense crowds: Local encounters and collective motion</a></div>
     <div class="author">Wenfeng Yi<sup>#</sup>, <strong>Wenhan Wu</strong>*</div>
-    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, Revision.</em></div>
+    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, 194: 106094.</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S0968090X26005796" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
       <a href="assets/files/2026 TRC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
