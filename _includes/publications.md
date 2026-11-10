@@ -80,7 +80,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a>19. Non-mainstream behaviors as endogenous perturbations in high-density public spaces: Evidence, modeling, and interventions</a></div>
-    <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, JWenfeng Yi*</div>
+    <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Wenfeng Yi*</div>
     <div class="periodical"><em>Developments in the Built Environment, 2026, 28: 101092</em></div>
     <div class="links">
     <a href="https://www.sciencedirect.com/science/article/pii/S2666165926002504" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
