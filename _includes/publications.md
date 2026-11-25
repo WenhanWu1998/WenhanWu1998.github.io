@@ -48,29 +48,29 @@
 </li> -->
 
 
-<!-- <li>
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TRC2026a.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Unpublished</abbr>
+    <abbr class="badge">TRC</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>19. A virtual-laboratory framework for bridging empirical evacuation experiments and social force simulations via adaptive calibration</a></div>
+    <div class="title"><a>20. An experiment-informed framework for crowd evacuation simulation via adaptive calibration</a></div>
     <div class="author"><strong>Wenhan Wu</strong><sup>#</sup>, Jingwei Ge*, Li Li</div>
-    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, Revision.</em></div>
+    <div class="periodical"><em>Transportation Research Part C: Emerging Technologies, 2026, 195: 106173.</em></div>
     <div class="links">
-    <a href="xxxxxxxxxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
-      <a href="assets/files/2026 TRC.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong style="color:#7b5aa6">JCR Q1, IF = 7.9, Citations = 0</strong>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0968090X26006583" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article Website</a>
+      <a href="assets/files/2026 TRCa.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong style="color:#7b5aa6">JCR Q1, IF = 8.4</strong>
     </div>
   </div>
 </div>
-</li> -->
+</li>
 
 
-<!-- <li>
+<li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -111,7 +111,7 @@
     </div>
   </div>
 </div>
-</li> -->
+</li> 
 
 
 <li>
